@@ -1,6 +1,8 @@
 import React from "react";
 
+
 const Resistance = () => {
+
   return (
     <div className=" bg-gray-400">
       <div>
